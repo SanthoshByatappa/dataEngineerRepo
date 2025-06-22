@@ -1,0 +1,9 @@
+{
+	"name": "dfgetmetadata1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e97da458-e9e1-4db7-9540-c455fe0ef383",
+		"tenantId": "c9bfff96-8d97-4b44-a403-acb5d2dad093"
+	}
+}
